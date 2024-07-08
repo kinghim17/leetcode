@@ -26,6 +26,6 @@ public:
             }
         }
         
-        return nums[l]; //or, nums[r]
+        return nums[l]; 
     }
 };
